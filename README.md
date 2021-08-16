@@ -14,4 +14,4 @@ the passwords will come in the file password.txt (the file must be found on the 
 
 using the passwords found is a crime
 
-thi is compatible alone with windows
+thi is compatible alone with windows, modifying the end of the file you can change the location of the password.txt file (share!)
